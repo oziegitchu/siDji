@@ -175,7 +175,7 @@ background: var(--bg-color);
 .search_wrap .search_box .btn.btn_common .bx{
   position: relative;
   top: -5px;
-  left: 53%;
+  left: 49%;
   transform: translate(-50%,-50%);
   color: white;
   font-size: 18px;
