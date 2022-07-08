@@ -160,7 +160,7 @@ z-index:9999999;
 	position: relative;
 	top: -97%;
 	left: 18px;
-	width: 75%;
+	width: 50%;
 	height: 8%;
 	padding: 10px 10px;
 	border-radius: 9px;
@@ -175,7 +175,7 @@ background: var(--bg-color);
 .search_wrap .search_box .btn.btn_common .bx{
 	position: relative;
 	top: -5px;
-	left: 73%;
+	left: 53%;
 	transform: translate(-50%,-50%);
 	color: white;
 	font-size: 18px;
@@ -263,6 +263,19 @@ font-size:15px;box-shadow: var(--box-shadow-inset);
 		z-index: 2;
 	}
 
+.driver { 
+		width:10px;
+		position:absolute;
+		top:-25px;
+		left:64%;
+		z-index: 100;
+		padding:1px;
+		border-radius:12px 12px 12px 12px;
+		box-shadow: -3px -3px 7px #ffffffb2, 3px 3px 5px rgba(94, 104, 121, 0.945);
+		background:red;
+     
+	}
+
 .logo-depositoo { 
 		width:10px;
 		position:absolute;
@@ -300,6 +313,17 @@ font-size:15px;box-shadow: var(--box-shadow-inset);
 		z-index: 2;
 	}
 
+.Mitra { 
+		width:39px;
+		position:absolute;
+		top:-25px;
+		left:82%;
+		z-index: 100;
+		padding:1px;
+    border-radius:12px 12px 12px 12px;
+		box-shadow: -3px -3px 7px #ffffffb2, 3px 3px 5px rgba(94, 104, 121, 0.945);
+		background:var(--ahsinulumamTukangngopi);
+	}
 .logo-withdraww { 
 		width:39px;
 		position:absolute;
