@@ -137,34 +137,34 @@ section{
 
 .container .input{
 
-	border: 0;
-	outline: none;
-	color: #8b7d77;
+  border: 0;
+  outline: none;
+  color: #8b7d77;
 }
 
 .search_wrap{
-	width: 100%;
-	margin: 38px auto;
+  width: 100%;
+  margin: 38px auto;
 }
 
 .search_wrap .search_box{
-	position: fixed;
-	width: 100%;
-	height: 60px;
+  position: fixed;
+  width: 100%;
+  height: 60px;
 z-index:9999999;
 
 }
 
 .search_wrap .search_box .input{
 
-	position: relative;
-	top: -97%;
-	left: 18px;
-	width: 50%;
-	height: 8%;
-	padding: 10px 10px;
-	border-radius: 9px;
-	font-size: 1px;
+  position: relative;
+  top: -97%;
+  left: 18px;
+  width: 50%;
+  height: 8%;
+  padding: 10px 10px;
+  border-radius: 9px;
+  font-size: 1px;
 z-index:2;
 box-shadow: var(--box-shadow);
 background: var(--bg-color);
@@ -173,12 +173,12 @@ background: var(--bg-color);
 
 
 .search_wrap .search_box .btn.btn_common .bx{
-	position: relative;
-	top: -5px;
-	left: 53%;
-	transform: translate(-50%,-50%);
-	color: white;
-	font-size: 18px;
+  position: relative;
+  top: -5px;
+  left: 53%;
+  transform: translate(-50%,-50%);
+  color: white;
+  font-size: 18px;
 z-index: 3;
 background:var(--ahsinulumamTukangngopi);
 border-radius:50%;
@@ -191,150 +191,149 @@ box-shadow: var(--box-shadow);
 
 .search_wrap.search_wrap_4 .search_box .input{
 height: 67%;
-	padding-left: 15px; background: var(--bg-color);
+  padding-left: 15px; background: var(--bg-color);
 
 
 }
 
 
 .search_wrap.search_wrap_4 .search_box .input{
-	border-radius: 20px;
+  border-radius: 20px;
 font-size:15px;color:var(--black);box-shadow: var(--box-shadow);
 }
 
 .search_wrap.search_wrap_4 .search_box .input:hover{
-	border-radius: 20px;
+  border-radius: 20px;
 font-size:15px;box-shadow: var(--box-shadow-inset);
 }
 
 .search_wrap.search_wrap_4 .search_box .btn{
-	left: 0px;
-	border-radius: 20%;
+  left: 0px;
+  border-radius: 20%;
 
 }
 .logo-headerr { 
-		width:23px;
-		position:absolute;
-		top:10px;
-		left:16px;
+    width:23px;
+    position:absolute;
+    top:10px;
+    left:16px;
      border-radius:50%;
-		z-index: 100;
-		padding:2px;
-		background:var(--ahsinulumamTukangngopi);
+    z-index: 100;
+    padding:2px;
+    background:var(--ahsinulumamTukangngopi);
      
-	}
+  }
 
 
-	.nama-penggunaa {
-		width:auto;
-		height :auto;
-		font-family:Poppins;
-		font-weight: bold;
-		font-size:13px;
-		color:white;
-		position:absolute;
-		top:13px;
-		left:12.4%;
-		z-index: 2;
-	}
+  .nama-penggunaa {
+    width:auto;
+    height :auto;
+    font-family:Poppins;
+    font-weight: bold;
+    font-size:13px;
+    color:white;
+    position:absolute;
+    top:13px;
+    left:12.4%;
+    z-index: 2;
+  }
 
 .saldoo {
-		width:74%;
-		height :auto;
-		font-family:Poppins;
-		font-weight: bold;
-		font-size:18px;
-		color:white;
-		position:absolute;
-		top:52px;
-		left:11.5%;
-		z-index: 2;
-	}
+    width:74%;
+    height :auto;
+    font-family:Poppins;
+    font-weight: bold;
+    font-size:18px;
+    color:white;
+    position:absolute;
+    top:52px;
+    left:11.5%;
+    z-index: 2;
+  }
 
 .katakataa {
-		width:auto;
-		height :auto;
-		font-family:Poppins;
-		font-size:11px;
-		color:white;
-		position:absolute;
-		top:99px;
-		left:11%;
-		z-index: 2;
-	}
+    width:auto;
+    height :auto;
+    font-family:Poppins;
+    font-size:11px;
+    color:white;
+    position:absolute;
+    top:99px;
+    left:11%;
+    z-index: 2;
+  }
 
 .driver { 
-		width:10px;
-		position:absolute;
-		top:-25px;
-		left:64%;
-		z-index: 100;
-		padding:1px;
-		border-radius:12px 12px 12px 12px;
-		box-shadow: -3px -3px 7px #ffffffb2, 3px 3px 5px rgba(94, 104, 121, 0.945);
-		background:red;
-     
-	}
+    width:39px;
+    position:absolute;
+    top:-25px;
+    left:64%;
+    z-index: 100;
+    padding:1px;
+    border-radius:12px 12px 12px 12px;
+    box-shadow: -3px -3px 7px #ffffffb2, 3px 3px 5px rgba(94, 104, 121, 0.945);
+    background:var(--ahsinulumamTukangngopi);
+  }
 
 .logo-depositoo { 
-		width:10px;
-		position:absolute;
-		top:45px;
-		left:64%;
-		z-index: 100;
-		padding:1px;
-		border-radius:12px 12px 12px 12px;
-		box-shadow: -3px -3px 7px #ffffffb2, 3px 3px 5px rgba(94, 104, 121, 0.945);
-		background:red;
+    width:39px;
+    position:absolute;
+    top:45px;
+    left:64%;
+    z-index: 100;
+    padding:1px;
+    border-radius:12px 12px 12px 12px;
+    box-shadow: -3px -3px 7px #ffffffb2, 3px 3px 5px rgba(94, 104, 121, 0.945);
+    background:var(--ahsinulumamTukangngopi);
      
-	}
+  }
 .namadepositoo {
-		width:auto;
-		height :auto;
-		font-family:Poppins;
-		font-size:11px;
-		color:white;
-		position:absolute;
-		top:88px;
-		left:64.2%;
-		z-index: 2;
-	}
+    width:auto;
+    height :auto;
+    font-family:Poppins;
+    font-size:11px;
+    color:white;
+    position:absolute;
+    top:88px;
+    left:64.2%;
+    z-index: 2;
+  }
 
 .namawithdraww {
-		width:auto;
-		height :auto;
-		font-family:Poppins;
-		
-		font-size:11px;
-		color:white;
-		position:absolute;
-		top:88px;
-		left:80%;
-		z-index: 2;
-	}
+    width:auto;
+    height :auto;
+    font-family:Poppins;
+    
+    font-size:11px;
+    color:white;
+    position:absolute;
+    top:88px;
+    left:80%;
+    z-index: 2;
+  }
 
-.Mitra { 
-		width:39px;
-		position:absolute;
-		top:-25px;
-		left:82%;
-		z-index: 100;
-		padding:1px;
+.mitra { 
+    width:39px;
+    position:absolute;
+    top:-25px;
+    left:82%;
+    z-index: 100;
+    padding:1px;
     border-radius:12px 12px 12px 12px;
-		box-shadow: -3px -3px 7px #ffffffb2, 3px 3px 5px rgba(94, 104, 121, 0.945);
-		background:var(--ahsinulumamTukangngopi);
-	}
+    box-shadow: -3px -3px 7px #ffffffb2, 3px 3px 5px rgba(94, 104, 121, 0.945);
+    background:var(--ahsinulumamTukangngopi);
+  }
 .logo-withdraww { 
-		width:39px;
-		position:absolute;
-		top:10px;
-		left:82%;
-		z-index: 100;
-		padding:1px;
+    width:39px;
+    position:absolute;
+    top:45px;
+    left:82%;
+    z-index: 100;
+    padding:1px;
     border-radius:12px 12px 12px 12px;
-		box-shadow: -3px -3px 7px #ffffffb2, 3px 3px 5px rgba(94, 104, 121, 0.945);
-		background:var(--ahsinulumamTukangngopi);
-	}
+    box-shadow: -3px -3px 7px #ffffffb2, 3px 3px 5px rgba(94, 104, 121, 0.945);
+    background:var(--ahsinulumamTukangngopi);
+  }
 * {
   margin:0px;
   padding:0px;
