@@ -215,7 +215,7 @@ font-size:15px;box-shadow: var(--box-shadow-inset);
 .logo-headerr { 
     width:23px;
     position:absolute;
-    top:10px;
+    top:88px;
     left:16px;
      border-radius:50%;
     z-index: 100;
@@ -246,7 +246,7 @@ font-size:15px;box-shadow: var(--box-shadow-inset);
     font-size:18px;
     color:white;
     position:absolute;
-    top:52px;
+    top:88px;
     left:11.5%;
     z-index: 2;
   }
@@ -258,7 +258,7 @@ font-size:15px;box-shadow: var(--box-shadow-inset);
     font-size:11px;
     color:white;
     position:absolute;
-    top:99px;
+    top:52px;
     left:11%;
     z-index: 2;
   }
